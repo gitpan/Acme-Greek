@@ -1,4 +1,5 @@
 package Acme::Greek;
+use strict;
 use utf8;
 
 my $latin  = q{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz};
@@ -20,11 +21,11 @@ Acme::Greek - Ιτ'σ αλλ γρεεκ το με!
 
 =head1 VERSION
 
-Version 0.01
+Version 1.0
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '1.0';
 
 =head1 SYNOPSIS
 
